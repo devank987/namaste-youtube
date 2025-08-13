@@ -1,3 +1,55 @@
+Debouncing :
+
+
+
+typing slow = 200ms
+typing fast = 30ms
+
+
+Debouncing with 200ms 
+- if the difference between 2 key strokes is less than 200ms - Decline API
+- greater than 200ms - Call the API
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
